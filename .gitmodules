@@ -1,0 +1,69 @@
+[submodule "VostrokLZ"]
+	path = VostrokLZ
+	url = git@github.com:VostrokAPI/VostrokLZ
+[submodule "VostrokAssembly"]
+	path = VostrokAssembly
+	url = git@github.com:VostrokAPI/VostrokAssembly
+[submodule "VostrokMeta"]
+	path = VostrokMeta
+	url = git@github.com:VostrokAPI/VostrokMeta
+[submodule "VostrokAllocator"]
+	path = VostrokAllocator
+	url = git@github.com:VostrokAPI/VostrokAllocator
+[submodule "VostrokKFS"]
+	path = VostrokKFS
+	url = git@github.com:VostrokAPI/VostrokKFS
+[submodule "VostrokVM"]
+	path = VostrokVM
+	url = git@github.com:VostrokAPI/VostrokVM
+[submodule "VostrokSNDBOX"]
+	path = VostrokSNDBOX
+	url = git@github.com:VostrokAPI/VostrokSNDBOX
+[submodule "VostrokCTNER"]
+	path = VostrokCTNER
+	url = git@github.com:VostrokAPI/VostrokCTNER
+[submodule "VostrokCPUID"]
+	path = VostrokCPUID
+	url = git@github.com:VostrokAPI/VostrokCPUID
+[submodule "VostrokCross"]
+	path = VostrokCross
+	url = git@github.com:VostrokAPI/VostrokCross
+[submodule "VostrokIEF"]
+	path = VostrokIEF
+	url = git@github.com:VostrokAPI/VostrokIEF
+[submodule "VostrokC2"]
+	path = VostrokC2
+	url = git@github.com:VostrokAPI/VostrokC2
+[submodule "VostrokMINFO"]
+	path = VostrokMINFO
+	url = git@github.com:VostrokAPI/VostrokMINFO
+[submodule "VostrokError"]
+	path = VostrokError
+	url = git@github.com:VostrokAPI/VostrokError
+[submodule "VostrokIO"]
+	path = VostrokIO
+	url = git@github.com:VostrokAPI/VostrokIO
+[submodule "VostrokExp"]
+	path = VostrokExp
+	url = git@github.com:VostrokAPI/VostrokExp
+[submodule "VostrokNet"]
+	path = VostrokNet
+	url = git@github.com:VostrokAPI/VostrokNet
+[submodule "VostrokPerf"]
+	path = VostrokPerf
+	url = git@github.com:VostrokAPI/VostrokPerf
+[submodule "VostrokDis"]
+	path = VostrokDis
+	url = git@github.com:VostrokAPI/VostrokDis
+[submodule "VostrokFMT"]
+	path = VostrokFMT
+	url = git@github.com:VostrokAPI/VostrokFMT
+[submodule "VostrokSTD"]
+	path = VostrokSTD
+	url = git@github.com:VostrokAPI/VostrokSTD
+[submodule "VostrokDSA"]
+	path = VostrokDSA
+	url = git@github.com:VostrokAPI/VostrokDSA
+[submodule "VostrokCrypto"]
+	path = VostrokCrypto
+	url = git@github.com:VostrokAPI/VostrokCrypto
